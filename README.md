@@ -17,7 +17,7 @@ Python 3 and above
 
 #### Installing as a Github Python Package
 ```bash
-pip install git+https://github.com/arytontediarjo/PDKitRotationFeatures.git
+pip install git+https://github.com/itismeghasyam/PDKitRotationFeatures.git
 ```
 
 ## Use Case
